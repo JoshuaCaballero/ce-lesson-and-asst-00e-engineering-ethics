@@ -20,3 +20,6 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
 3. For this assignment, readability, clarity, and proper formatting are required. Refer to the lesson-and-assignment document for examples, and the [Github markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). The cheat sheet doesn't exhaust all you can do with markdown in a Github README.md. If you need more sophisticated elements, search on Google and/or ask the course staff.
 ---
 _Your study and submission work here..._
+
+1.2.1: The most generic definition of "ethics" I found would be the "philosophical study of... a set of a social rules, principals, norms that guide... the conduct of people in a society..." from the "African Ethics" entry of the Stanford Encyclopedia of Plilosophy. From what I understand, ethics define what actions are deemed correct and incorrect in a  given group of people. I found the "The Ethics of Manipulation," "The Ethics of Belief," and "Virtue Ethics" the most novel from what I skimmed in their respective introductions.
+1.2.2: Aristotle places the reason for ethical behavior to moral virtue. According to his work, humans strive for a virtuous life, which is achieved in part through conscious actions guided by a certain moral principle.
